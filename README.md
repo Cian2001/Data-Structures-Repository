@@ -1,5 +1,5 @@
-# Upstream Repo for COMP20280
+# Data-Structures-Repository
 
-This repo contains the starter code for the Data Structures repository.
+This repository was used for COMP20280-Data Structures module. 
 
-This repo will be updated during the semester.
+There was starter code supplied by the teaching assisstants but I had to implememnt the data structures myself.
